@@ -1,21 +1,3 @@
-Arc Poll
-
-Description:
-A decentralized onchain polling application built on Arc Testnet.
-
-Live Demo:
-https://euphonious-semolina-470412.netlify.app/
-
-Contract:
-ArcPoll
-0x2d6c6b59887047c91d02cc89258eba7456fc40df
-
-Network:
-Arc Testnet
-Chain ID: 5042002
-
-Include these sections:
-
 # Arc Poll
 
 A decentralized onchain polling application built on Arc Testnet.
@@ -49,9 +31,10 @@ https://euphonious-semolina-470412.netlify.app/
 
 **ArcPoll**
 
-0x2d6c6b59887047c91d02cc89258eba7456fc40df
+`0x2d6c6b59887047c91d02cc89258eba7456fc40df`
 
-Network: Arc Testnet
+**Network:** Arc Testnet  
+**Chain ID:** 5042002
 
 ## Tech Stack
 
@@ -66,29 +49,7 @@ Network: Arc Testnet
 
 ## Getting Started
 
-``bash
+```bash
 bun install
 bun run dev
-Testnet Notice
 
-This project is deployed on Arc Testnet for learning and experimentation.
-
-Testnet assets have no monetary value.
-
-Never commit .env, private keys, or seed phrases.
-
-Built With Arc Studio
-
-This project was built and tested using Arc Studio to explore smart contract development and onchain application workflows on Arc Testnet.
-
-Status
-
-Testnet project — built for experimentation and learning.
-
-Author
-
-Built by vijay0664kumar
-
-License
-
-MIT
