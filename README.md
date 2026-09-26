@@ -53,3 +53,27 @@ https://euphonious-semolina-470412.netlify.app/
 bun install
 bun run dev
 
+Testnet Notice
+
+This project is deployed on Arc Testnet for learning and experimentation.
+
+Testnet assets have no monetary value.
+
+Never commit .env, private keys, or seed phrases.
+
+Built With Arc Studio
+
+This project was built and tested using Arc Studio to explore smart contract development and onchain application workflows on Arc Testnet.
+
+Status
+
+Testnet project — built for experimentation and learning.
+
+Author
+
+Built by vijay0664kumar
+
+License
+
+MIT
+
