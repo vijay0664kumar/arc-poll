@@ -49,7 +49,7 @@ https://euphonious-semolina-470412.netlify.app/
 
 ## Getting Started
 
-```bash
+``bash
 bun install
 bun run dev
 
